@@ -1,0 +1,26 @@
+<!-- بداية المنتج  -->
+<div class="card">
+<h4 class="shirt_text">منتج 02</h4>
+<div class="image">
+<img src="images/2.jpg">
+</div>
+<div class="info" dir="rtl">
+<span style="font-size: 21px; color:green">2200 دج</span>
+</div>
+<div class="description">
+</div>
+<div class="btn_main">
+<button class="btn-order" onclick="orderNow(
+'منتح 02',
+'2200',
+'',
+['images/6.jpg',
+'images/5.jpg',
+'images/4.jpg',
+'images/3.jpg']
+)">
+<i class="animation"></i>أطلب الآن<i class="animation"></i>
+</button>
+</div>
+</div>
+<!-- نهاية المنتج  -->
